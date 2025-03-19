@@ -1,3 +1,5 @@
+https://www.raspberrypi.com/documentation/computers/os.html
+
 - lots of stuff about OS type- late version of Debian
 - manage software packages through APT (advanced package tool)
 - python 3 pre-installed
