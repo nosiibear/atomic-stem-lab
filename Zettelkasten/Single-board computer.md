@@ -1,4 +1,4 @@
-A single-board computer is a complete [[Computer]] built on a single [[Circuit board]].
+A single-board computer is a complete [[Computer]] built on a single [[Printed circuit board]].
 
 Single-board computers often use [[Microprocessor]]s.
 

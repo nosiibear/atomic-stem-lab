@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"9f34deb4ca6dc583","type":"file","file":"atomic-stem-lab/Zettelkasten/Semiconductor device.md","x":983,"y":1680,"width":477,"height":360},
+		{"id":"2627d22a9e442ffa","type":"file","file":"atomic-stem-lab/Zettelkasten/Transistor.md","x":1022,"y":2371,"width":400,"height":400},
+		{"id":"32200385374f8fdb","type":"file","file":"atomic-stem-lab/Zettelkasten/Integrated circuit.md","x":86,"y":1720,"width":440,"height":320},
+		{"id":"3765be9121264b55","type":"file","file":"atomic-stem-lab/Zettelkasten/Semiconductor.md","x":720,"y":560,"width":400,"height":400},
+		{"id":"03540f79207e3b1a","type":"file","file":"atomic-stem-lab/Zettelkasten/Electronic component.md","x":46,"y":960,"width":480,"height":240},
+		{"id":"b00a706a5f7ea6f8","type":"file","file":"atomic-stem-lab/Zettelkasten/Electric circuit.md","x":-560,"y":-588,"width":560,"height":500},
+		{"id":"322b6be5ed9482b0","type":"file","file":"atomic-stem-lab/Zettelkasten/Electronic circuit.md","x":-555,"y":172,"width":555,"height":388},
+		{"id":"07685d422fb0bb17","type":"file","file":"atomic-stem-lab/Zettelkasten/Microcontroller.md","x":306,"y":2399,"width":612,"height":450},
+		{"id":"a3703b59fbb75a32","type":"file","file":"atomic-stem-lab/Zettelkasten/Printed circuit board.md","x":-1188,"y":937,"width":468,"height":343},
+		{"id":"c82b798a3774f14a","type":"file","file":"atomic-stem-lab/Zettelkasten/General-purpose input output.md","x":0,"y":3600,"width":400,"height":400},
+		{"id":"78c2f2d3af9ae634","type":"file","file":"atomic-stem-lab/Zettelkasten/System on a Chip.md","x":-491,"y":2270,"width":434,"height":301},
+		{"id":"ab0af98a8b5dfd38","type":"file","file":"atomic-stem-lab/Zettelkasten/Raspberry Pi.md","x":-1941,"y":3076,"width":607,"height":542},
+		{"id":"00d9e311c34b00fa","type":"file","file":"atomic-stem-lab/Zettelkasten/Microprocessor.md","x":-600,"y":3076,"width":457,"height":247},
+		{"id":"6942ae844310356d","type":"file","file":"atomic-stem-lab/Zettelkasten/Single-board computer.md","x":-1880,"y":1754,"width":484,"height":252}
+	],
+	"edges":[
+		{"id":"5c615ec907089b71","fromNode":"322b6be5ed9482b0","fromSide":"top","toNode":"b00a706a5f7ea6f8","toSide":"bottom","label":"type of"},
+		{"id":"dcf5fecd720a95ba","fromNode":"03540f79207e3b1a","fromSide":"top","toNode":"322b6be5ed9482b0","toSide":"bottom","label":"makes up"},
+		{"id":"cf9fcf627c633bb2","fromNode":"9f34deb4ca6dc583","fromSide":"top","toNode":"03540f79207e3b1a","toSide":"bottom","label":"type of"},
+		{"id":"dd557052b19a0496","fromNode":"07685d422fb0bb17","fromSide":"top","toNode":"32200385374f8fdb","toSide":"bottom","label":"type of"},
+		{"id":"034b7b84be4be453","fromNode":"2627d22a9e442ffa","fromSide":"top","toNode":"9f34deb4ca6dc583","toSide":"bottom","label":"type of"},
+		{"id":"16ea307be9a4f122","fromNode":"32200385374f8fdb","fromSide":"right","toNode":"9f34deb4ca6dc583","toSide":"left","label":"contains many/\nis one?"},
+		{"id":"12c4f617f9ddd172","fromNode":"9f34deb4ca6dc583","fromSide":"top","toNode":"3765be9121264b55","toSide":"bottom","label":"made of"},
+		{"id":"2e2ef3a1c143f04f","fromNode":"32200385374f8fdb","fromSide":"top","toNode":"03540f79207e3b1a","toSide":"bottom","label":"type of"},
+		{"id":"0e73c18de21fa8ce","fromNode":"c82b798a3774f14a","fromSide":"top","toNode":"07685d422fb0bb17","toSide":"bottom","label":"feature of"},
+		{"id":"e3f9824cb7b5e8e1","fromNode":"c82b798a3774f14a","fromSide":"top","toNode":"00d9e311c34b00fa","toSide":"bottom","label":"feature of"},
+		{"id":"7d62acef06e7b960","fromNode":"78c2f2d3af9ae634","fromSide":"top","toNode":"32200385374f8fdb","toSide":"bottom","label":"type of"},
+		{"id":"8f9f83bb87c246a2","fromNode":"ab0af98a8b5dfd38","fromSide":"top","toNode":"6942ae844310356d","toSide":"bottom","label":"type of"},
+		{"id":"107f649891a18128","fromNode":"a3703b59fbb75a32","fromSide":"top","toNode":"322b6be5ed9482b0","toSide":"bottom","label":"houses"},
+		{"id":"264d8006835beb16","fromNode":"6942ae844310356d","fromSide":"top","toNode":"a3703b59fbb75a32","toSide":"bottom","label":"built on"},
+		{"id":"db723074625ce7c8","fromNode":"00d9e311c34b00fa","fromSide":"top","toNode":"6942ae844310356d","toSide":"bottom","label":"contained inside"},
+		{"id":"8093c2b6409ba614","fromNode":"ab0af98a8b5dfd38","fromSide":"top","toNode":"78c2f2d3af9ae634","toSide":"bottom","label":"contained inside"}
+	]
+}
